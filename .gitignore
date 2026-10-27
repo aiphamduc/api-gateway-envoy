@@ -1,0 +1,7 @@
+/CoffeeAPI/bin/
+/CoffeeAPI/obj/
+/TeaAPI/bin/
+/TeaAPI/obj/
+
+*.crt
+*.pem

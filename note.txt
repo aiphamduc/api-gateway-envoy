@@ -1,0 +1,3 @@
+dotnet dev-certs https -ep $env:USERPROFILE\.aspnet\https\CoffeeAPI.pfx -p clm
+
+dotnet dev-certs https --trust
