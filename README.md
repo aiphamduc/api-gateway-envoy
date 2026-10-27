@@ -164,3 +164,5 @@ The repository includes these diagrams and illustrations:
 - `CoffeeAPI` redirects HTTP requests to HTTPS; `TeaAPI` does not enable HTTPS redirection.
 - The certificate and private key are intended for local testing only. Replace them with appropriately managed certificates and keys before deploying anywhere beyond a local development environment.
 - Envoy's admin interface and backend ports are published to the host by Compose. Restrict or remove those published ports in any non-local deployment.
+
+## Reference: Les Jackson
